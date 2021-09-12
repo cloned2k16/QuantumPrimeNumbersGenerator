@@ -32,7 +32,7 @@ let me point out something about me ..
    the industry much too corrupt .. 
    my design would only get effectively relevant starting from 32 bits .. 
    and they were still counting each single transistor on the chip ..
-   while today the transistors count goes in the order od BILIONS/TRILIONS per chip
+   while today the transistors count goes in the order od BILIONS per chip
       
 ![Moore's Law](Moore's_Law_Transistor_Count_1971-2018.png)
 
