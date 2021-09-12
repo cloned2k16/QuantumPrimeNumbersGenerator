@@ -38,3 +38,14 @@ let me point out something about me ..
       
 ![Moore's Law](Moore's_Law_Transistor_Count_1971-2018.png)
 
+3) despite the so high number of transitor fits in a CPU today   
+   they are mostly useless in term of actual computational power  
+   your CPU still does most of it's main job by 'software' and with a very low level of parallelism  
+   except very specific cases , while most of the huge ammount of transistors in your CPU are dedicated to  
+   avoid bottle neck with peripherials (RAM , HDD , software loops etc .. )  (aside to heat up ,your room :D )  
+   it seems unbelieveable, but,  
+   30 years later CPU are millions of times more powerful in theory  
+   while they actually still stick to same procedural way to work ..   
+   and you got to wait for them just like 30 years ago .. ****LOL**  
+   
+
