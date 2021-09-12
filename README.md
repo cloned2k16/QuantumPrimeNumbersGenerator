@@ -20,7 +20,7 @@ for the wrong assumption (as usual),
 which will make you believe I'm just a lunatic which don't know what is talking about ..  
 let me point out something about me ..  
 
-1) the very first computer I did ever use ( much too expensive to own )
+1) the very first computer I did ever use ( much too expensive to own )  
     was not even using a CPU,  instead it have had 2  TTL boards ( PUCE1 and PUCE2 )
     https://en.wikipedia.org/wiki/Olivetti_P6060
 2) in 1991 when most CPU where still in 8/16 bit era,
