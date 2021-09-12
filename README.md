@@ -27,10 +27,11 @@ let me point out something about me ..
 2) in 1991 when most CPU where still in 8/16 bit era,
    and parallel multiplier was still only present in specialized chips ( math coprocessors)
    I did design a very revolutionary new CPU .. 
-   (Inspired by a CPU created few years early, 
-   (ARM, the CPU that most likely (99.9999%) is in your mobile device right now))
-   I did never publish my work on this, cause was much too early and then,
-   the industry much too corrupt later on .. aside you still mostly stick to 32 bit operations ..  
+   (Inspired by a CPU created few years early,  
+   (ARM, the CPU that most likely (99.9999%) is in your mobile device right now))  
+   I did never publish my work on this, cause was much too early and then,  
+   the industry much too corrupt later on ..   
+   let aside you still mostly stick to 32 bit operations ..   
    my design would only get effectively relevant starting from 32 bits ..  
    and they were still counting each single transistor on the chip ..  
    while today the transistors count goes in the order od BILIONS per chip  
