@@ -34,4 +34,5 @@ let me point out something about me ..
    and they were still counting each single transistor on the chip ..
    while today the transistors count goes in the order od BILIONS/TRILIONS per chip
       
+![Moore's Law](Moore's_Law_Transistor_Count_1971-2018.png)
 
