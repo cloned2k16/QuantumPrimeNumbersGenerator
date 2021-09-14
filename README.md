@@ -87,6 +87,11 @@ is intrinsic in the "only divided by themself and 1"
  you are left to some stupid sieve / factorization to find them as they where put there by GOD himself **LOL**  
  
  
+BTW ,  
+I always knew this since child , that's why I DID NEVER use factorization,  
+cause was clear since then, it was just a sort of CULT ..  
+you don't really need primes to solve any actual Math problem .. 
+unless you adore them as a GOD sign **LOL**  
  
  
  
