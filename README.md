@@ -49,3 +49,52 @@ let me point out something about me ..
    and you got to wait for them just like 30 years ago .. ****LOL**  
    
 
+### Prime numbers DO NOT really exist !!
+
+the most hilarious of all this  
+is that in fact **prime numbers** DON'T really exist ..
+period.
+
+how is that possible ? well .. short answer,   
+Math PPL don't really understand Math .. 
+( or better said , they don't understand what they actually do when use Math (which is just a tool))  
+
+they get into a cult very soon, thinking Math can answer everithing by solving equations **LOL**
+fact is .. prime number exist just because the rule they made for them to show up .. (yep!)  
+that is, the entire cahotic progression which leads to so called prime numbers get to be special  
+is intrinsic in the "only divided by themself and 1"  
+( which BTW should be considered instead the very one prime numbers given that either 1 and itself is the same  
+ however this would lead to no prime numbers at all which break their FAITH in Math GOD .. )  
+ 
+ One is de facto generator of any other prime number .. ((YEP just as simple as that!!))  
+ 
+ the progression then is just keept alive by 1, while others numbers   
+ just contribute in cancelling out some of them periodically ..  
+ 2 will cancel out any even number making any odd number being potentially prime   
+ which in fact is true till 9 when this one got cancelled out by 3  
+ as it is 15 , 21 ,27.. etc .. ( notice 9 = 3*3=3^2 , 15=3*5 , 21 3*7 , 27=3*9=3^3 )  
+ which in turn means primes up to 30 are ruled just by 2,3 ( being 1 the generator )..  
+ only exception is 25 which is again 5^2 .. 
+ 
+ there's NOT anything really special about prime number except they are unpredictable by   
+ some stupid math function f(x) .. 
+ just like any other cahotic progression, can't be reduced to a linear imaginary Math relation .. 
+ this doesn't make them unpredictable .. just a bit more complex than what Math PPL ASSUME the world is ..  
+ 
+ they just follow a precise chaotic progression ..   
+ can be predicted and splitted into repetitive patterns just like any other chaotic/fractal ..  
+ however if you BELIEVE numbers come out of nowhere and have no relation between them  
+ you are left to some stupid sieve / factorization to find them as they where put there by GOD himself **LOL**  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
